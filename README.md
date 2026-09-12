@@ -1,5 +1,13 @@
 # Assignment #1 - Designing a Product Recommendation Engine
 
+## Origin
+
+This project was made for a Data Strucutres class and is intended to showcase the use of lists and sets.
+
+A desgin memo is contained at the bottom of [product_catalog.py](product_catalog.py).
+
+## Original Instructions 
+
 You’ve just joined a small e-commerce startup, and your first task is to prototype a basic product recommendation tool. Each product in the catalog includes tags like `"eco-friendly"`, `"durable"`, or `"stylish"`. This looks like the list of dictionaries shown below.
 ```python
 products = [ 
